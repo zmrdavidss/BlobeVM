@@ -1,4 +1,4 @@
-git clone https://github.com/zmrdavidss/BlomeVM
+git clone https://github.com/zmrdavidss/blobevm
 cd BlobeVM
 pip install textual
 sleep 2
