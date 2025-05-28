@@ -47,6 +47,7 @@ class InstallScreen(Screen):
             ("Discord", 3, True),
             ("Steam", 4, True),
             ("Minecraft", 5, True),
+            ("Vencord", 6, True)
             id="defaultapps"
         ),),
         Vertical (
